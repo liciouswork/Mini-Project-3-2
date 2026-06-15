@@ -32,13 +32,13 @@ source venv/bin/activate
 Install required dependencies:
 
 ```bash
+cd backend
 pip install -r requirements.txt
 ```
 
 Start the Flask backend server:
 
 ```bash
-cd backend
 python app.py
 ```
 
@@ -84,3 +84,4 @@ http://localhost:5173
 2. Start the React frontend.
 3. Open the frontend URL in your browser.
 4. Submit an insurance claim for fraud analysis.
+5. Check for the confidence score.
