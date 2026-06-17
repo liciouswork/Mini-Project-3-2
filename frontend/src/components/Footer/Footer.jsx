@@ -20,7 +20,7 @@ const Footer = () => {
         </div>
       </div>
       <div className={styles.copyright}>
-        <p>&copy; {new Date().getFullYear()} Insurance Fraud Detection Project. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Insurance Fraud Detection Project. Done by ARR solutions</p>
       </div>
     </footer>
   );

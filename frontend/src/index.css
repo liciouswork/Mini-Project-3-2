@@ -1,7 +1,7 @@
 :root {
   --main-bg: #F4F7FB;
   --card-bg: #FFFFFF;
-  --navbar-bg: #1E3A5F;
+  --navbar-bg: #090b0e;
   --primary-action: #2563EB;
   --success: #16A34A;
   --warning: #F59E0B;
@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn-primary:hover {
-  background-color: #1d4ed8;
+  background-color: #b31dd8;
 }
 
 .btn-primary:disabled {
